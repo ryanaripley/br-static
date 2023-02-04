@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Quote &#8211; Biblical Remains</title>
+	<atom:link href="/category/quote/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 10 Sep 2020 00:19:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/09/cropped-favicon-32x32.png</url>
+	<title>Quote &#8211; Biblical Remains</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nouwen’s Father of the Prodigal</title>
+		<link>/nouwens-father-of-the-prodigal/</link>
+					<comments>/nouwens-father-of-the-prodigal/#respond</comments>
+		
+		<dc:creator><![CDATA[Larry Largent]]></dc:creator>
+		<pubDate>Mon, 22 Jun 2015 00:15:54 +0000</pubDate>
+				<category><![CDATA[Faith]]></category>
+		<category><![CDATA[Quote]]></category>
+		<guid isPermaLink="false">https://biblicalremains.com/?p=156</guid>
+
+					<description><![CDATA[This father&#8217;s day I was reminded of Henri Nouwen&#8217;s description of the prodigal&#8217;s father in his book The Return of the Prodigal Son: God is not the patriarch who stays home, doesn&#8217;t move and expects his children to come to him, apologize for their aberrant behavior, beg for forgiveness, and promise to do better. To the...]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="496" height="901" src="/wp-content/uploads/2020/09/496px-Rembrandt-prodigal-son.jpg" alt="" class="wp-image-157" srcset="/wp-content/uploads/2020/09/496px-Rembrandt-prodigal-son.jpg 496w, /wp-content/uploads/2020/09/496px-Rembrandt-prodigal-son-165x300.jpg 165w" sizes="(max-width: 496px) 100vw, 496px" /><figcaption>Rembrandt, &#8220;The Prodigal Son,&#8221; photo courtesy of wikimedia commons.</figcaption></figure></div>
+
+
+
+<p>This father&#8217;s day I was reminded of Henri Nouwen&#8217;s description of the prodigal&#8217;s father in his book <a rel="noreferrer noopener" class="" href="https://web.archive.org/web/20171022174856/http://www.amazon.com/gp/product/0385473079/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0385473079&amp;linkCode=as2&amp;tag=bibliremai09-20&amp;linkId=J2PTVQ4IK7ALZ6B2%22%3EThe%20Return%20of%20the%20Prodigal%20Son:%20A%20Story%20of%20Homecoming%3C/a%3E%3Cimg%20src=%22http://ir-na.amazon-adsystem.com/e/ir?t=bibliremai09-20&amp;l=as2&amp;o=1&amp;a=0385473079" target="_blank">The Return of the Prodigal Son</a>:</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>God is not the patriarch who stays home, doesn&#8217;t move and expects his children to come to him, apologize for their aberrant behavior, beg for forgiveness, and promise to do better. To the contrary, he leaves the house, ignoring his dignity by running toward them, pays no heed to apologies and promises of change, and brings them to the table richly prepared for them. </p><cite><strong>Henri Nouwen</strong><br>The Return of the Prodigal Son, pg. 106</cite></blockquote></figure>
+
+
+
+<p>May you be that type of father, and may you recognize that you have that type of father already, this fathers day.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/nouwens-father-of-the-prodigal/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
