@@ -12,7 +12,7 @@
 	<atom:link href="/category/resource/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sun, 13 Sep 2020 14:26:47 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Feb 2023 17:17:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,6 @@
 	<item>
 		<title>Reflecting on my time in Seminary</title>
 		<link>/reflecting-on-my-time-in-seminary/</link>
-					<comments>/reflecting-on-my-time-in-seminary/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Largent]]></dc:creator>
 		<pubDate>Tue, 22 Aug 2017 16:04:42 +0000</pubDate>
@@ -79,15 +78,12 @@
 <p><em>Recovering the the art of hospitality has weighed heavily on my heart over the course of the last year. When we think of hospitality today, normally we think of professional services: hotels, hospitals andrestaurants. But it wasn’t always that way. Hospitality was one of the distinguishing marks of the early Christian communities. It set them apart from the rest of the Roman world that was dependent upon classism and patron/client relationships. The hospitality of the church meant that all waited for one another to share the Lord’s Table, regardless of class or ethnicity, and share they did – a full meal. If you would like to know more about the nature of Hospitality in the early church I can think of no better resource than&nbsp;<a href="https://amzn.to/2g1YS0k">Christine Pohl’s Making Room</a></em>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/reflecting-on-my-time-in-seminary/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>What’s my secret tip for understanding the biblical text better?</title>
 		<link>/whats-my-secret-tip-for-understanding-the-biblical-text-better/</link>
-					<comments>/whats-my-secret-tip-for-understanding-the-biblical-text-better/#respond</comments>
 		
 		<dc:creator><![CDATA[Larry Largent]]></dc:creator>
 		<pubDate>Mon, 26 Jan 2015 14:18:53 +0000</pubDate>
@@ -195,8 +191,6 @@
 <p class="has-medium-font-size">Join the Conversation below: How do you prioritize your reading schedule? How do you plan to read more in 2015? What one&nbsp;book are you most looking forward to reading this year?</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/whats-my-secret-tip-for-understanding-the-biblical-text-better/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
